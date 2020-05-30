@@ -1,4 +1,4 @@
-# ifood-data-business-analyst-test
+# iFood Data Business Analyst Test
 <br><br>
 Essa foi a minha solução para o case utilizado para participar do processo de seleção de Data Analsyst no iFood.
 
