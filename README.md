@@ -1,6 +1,9 @@
 # ifood-data-business-analyst-test
-## last update 19/02/2020
 <br><br>
-This case is used for hiring Data Analysts for the iFood Brain team. Instructions are in the pdf file. <br><br>
+Essa foi a minha solução para o case utilizado para participar do processo de seleção de Data Analsyst no iFood.
 
-If you are interested in joining our team, or getting to know more about iFood and our team, feel free to send an e-mail to "ifoodbrain_hiring@ifood.com.br".<br><br>
+Primeiramente foi realizada uma exploração dos dados.
+Após, realizei a segmentação dos consumidores.
+Por fim, apliquei três modelos de classificação (Regressão Logística, Random Forest e Decision Tree).
+
+Qualquer dúvida ou sugestão pode entrar em contato comigo pelo e-mail "elbartholomay@gmail.com".<br><br>
