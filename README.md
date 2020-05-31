@@ -10,7 +10,7 @@ Por fim, apliquei três modelos de classificação (Regressão Logística, Rando
 
 > [iFood Data Analyst Case](https://github.com/edubarth/Analise_Campanha_Marketing/blob/master/iFood%20Data%20Analyst%20Case.pdf)
 
-> [iFood Data Analyst Case Solution] (https://github.com/edubarth/Analise_Campanha_Marketing/blob/master/iFood-DADArq-Case-Solution-Eduardo-Luis-Bartholomay.pdf)
+> [iFood Data Analyst Case Solution](https://github.com/edubarth/Analise_Campanha_Marketing/blob/master/iFood-DADArq-Case-Solution-Eduardo-Luis-Bartholomay.pdf)
 
 > [Banco de dados](https://github.com/edubarth/Analise_Campanha_Marketing/blob/master/ml_project1_data.csv)
 
